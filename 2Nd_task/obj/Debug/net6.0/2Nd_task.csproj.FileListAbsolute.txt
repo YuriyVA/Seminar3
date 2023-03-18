@@ -1,0 +1,15 @@
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\2Nd_task.csproj.AssemblyReference.cache
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\2Nd_task.GeneratedMSBuildEditorConfig.editorconfig
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\2Nd_task.AssemblyInfoInputs.cache
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\2Nd_task.AssemblyInfo.cs
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\2Nd_task.csproj.CoreCompileInputs.cache
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\bin\Debug\net6.0\2Nd_task.exe
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\bin\Debug\net6.0\2Nd_task.deps.json
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\bin\Debug\net6.0\2Nd_task.runtimeconfig.json
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\bin\Debug\net6.0\2Nd_task.dll
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\bin\Debug\net6.0\2Nd_task.pdb
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\2Nd_task.dll
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\refint\2Nd_task.dll
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\2Nd_task.pdb
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\2Nd_task.genruntimeconfig.cache
+E:\python\Домашнее заданее\C#\Seminar_3\2Nd_task\obj\Debug\net6.0\ref\2Nd_task.dll
