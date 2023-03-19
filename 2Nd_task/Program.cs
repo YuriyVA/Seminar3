@@ -6,7 +6,7 @@
 
 // AB = √(xb - xa)2 + (yb - ya)2 + (zb - za)2
 
-
+System.Console.WriteLine("Введите координаты двух точек, 6 чисел ");
 double dist = 0; 
  
 double Distance() 
